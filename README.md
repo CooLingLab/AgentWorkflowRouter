@@ -1,5 +1,7 @@
 # agent-workflow-router
 
+**English** | [简体中文](README.zh-CN.md)
+
 AI coding agents like Claude Code and OpenAI Codex CLI are good at writing
 code, but not at knowing *how* to approach a task before writing it —
 whether to write a spec first, write a failing test first, prototype
